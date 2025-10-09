@@ -26,18 +26,6 @@
       "source": "CRAWL",
       "targetPath": "/en/newsroom",
       "id": "a07d667acd97339dee98cfd8f954ca0b8002c0b7"
-    },
-    {
-      "url": "https://www.valvolineglobal.com/es-ar/",
-      "source": "CRAWL",
-      "targetPath": "/es-ar",
-      "id": "09eb1f8ee1264d885044adcb098143c190aaf07d"
-    },
-    {
-      "url": "https://www.valvolineglobal.com/es-ar/hpc-liquid-cooling/",
-      "source": "CRAWL",
-      "targetPath": "/es-ar/hpc-liquid-cooling",
-      "id": "6cddb9497fe135ef691dc45dabc4d231eb10781e"
     }
   ],
   "crawlOptions": {
