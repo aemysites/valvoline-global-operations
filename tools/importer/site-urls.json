@@ -3,11 +3,9 @@
   "aborted": false,
   "lastCrawled": "https://www.valvolineglobal.com/en/newsroom/",
   "urls": [
-    {
-      "url": "https://www.valvolineglobal.com/en/",
-      "source": "CRAWL",
-      "targetPath": "/en",
-      "id": "7d81b770ac2eeb55615ef153b1fd7a12e609edb8"
+    { 
+      "url": "https://www.valvolineglobal.com", 
+      "source": "MANUAL" 
     }
   ],
   "crawlOptions": {
